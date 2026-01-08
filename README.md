@@ -4,9 +4,16 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a recently graduated software engineer with a degree in computer engineering. I have experience in backend and frontend development, databases, microservices, microfrontends, modern web tools, and web design based on UX/UI principles. I am passionate about learning, teamwork, and creating productive and innovative solutions. I aspire to be a full stack developer and contribute my learnings acquired collaboratively.
-
+I'm a software engineer, a recent graduate with a degree in computer engineering. I have experience in areas such as software development, UX/UI research, and IT fundamentals. I'm passionate about learning, teamwork, and creating productive and innovative solutions. I aspire to be a full-stack developer and contribute to high-impact projects.
 - 🧑‍🎓 Studied civil engineering in computer science at the University of Santiago, Chile (USACH).
+- I have experience in...
+  - Backend and Frontend Development
+  - Relational and non-relational databases
+  - Modern Web Tools
+  - Source code quality tests
+  - Microservices and microfrontend architecture
+  - Web design based on UX/UI principles
+  - Agile scrum and kanban methodologies
 - 🌱 I’m currently learning ...
   - Livewire
   - Tailwind
@@ -77,6 +84,9 @@ I am a recently graduated software engineer with a degree in computer engineerin
   <a target="_blank" href="https://docs.docker.com/">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   </a>
+  <a target="_blank" href="https://www.sonarsource.com/es/">
+    <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD">
+  </a>
   <a target="_blank" href="https://linuxcommand.org/tlcl.php">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </a>
@@ -85,9 +95,11 @@ I am a recently graduated software engineer with a degree in computer engineerin
   </a>
 </span>
 
-## 🌐 Check out my Social Media
+## 🤝 Connect with Me
 <a target="_blank" href= "https://www.linkedin.com/in/carlos-castillo-d/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:carlos.castillo.d@usach.cl?subject=Hi%20Carlos%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" />
 </a>
 <a target="_blank" href= "https://www.instagram.com/carlithos_franzxisss/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
