@@ -4,19 +4,18 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm a software engineer, a recent graduate with a degree in computer engineering. I have experience in areas such as software development, UX/UI research, and IT fundamentals. I'm passionate about learning, teamwork, and creating productive and innovative solutions. I aspire to be a full-stack developer and contribute to high-impact projects.
+I'm a software engineer, a recent graduate with a degree in computer engineering. I am interested in the areas of IT, software development, and web development. I'm passionate about learning, teamwork, and creating productive and innovative solutions. I aspire to be a full-stack developer and contribute to high-impact projects.
 - 🧑‍🎓 Studied civil engineering in computer science at the University of Santiago, Chile (USACH).
-- I have experience in...
-  - Backend and Frontend Development
-  - Relational and non-relational databases
-  - Modern Web Tools
-  - Source code quality tests
-  - Microservices and microfrontend architecture
-  - Web design based on UX/UI principles
-  - Agile scrum and kanban methodologies
-- 🌱 I’m currently learning ...
-  - Livewire
-  - Tailwind
+- 🧐 I have experience in...
+  - Backend and Frontend Development,
+  - Relational and non-relational databases,
+  - Modern Web Tools,
+  - Source code quality tests,
+  - Microservices and microfrontend architecture,
+  - Web design based on UX/UI principles,
+  - Agile scrum and kanban methodologies,
+  - Solving complex problems,
+  - And to create effective and efficient solutions.
 - 👯 I’m looking forward to collaborate on open source projects.
 - ☁️ Outside tech, 💪 I like to exercise, 🎮 playing videogames, 🎵 listening to music, and 🍿 watching movies and anime.
 
