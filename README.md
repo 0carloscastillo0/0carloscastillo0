@@ -23,16 +23,16 @@ I'm a software engineer, a recent graduate with a degree in computer engineering
 
 <h4>  Languages and Environment </h4>
 <span> 
-  <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML">
+  <a target="_blank" href="https://www.w3schools.com/html/default.asp">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>
-  <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/CSS">
+  <a target="_blank" href="https://www.codecademy.com/resources/docs/css">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
-  <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+  <a target="_blank" href="https://www.freecodecamp.org/learn/javascript-v9/">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
-  <a target="_blank" href="https://docs.python.org/3/">
+  <a target="_blank" href="https://learnpython.org/">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </a>
   <a target="_blank" href="https://nodejs.org/docs/latest/api/">
