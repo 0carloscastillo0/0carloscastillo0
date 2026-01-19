@@ -32,6 +32,9 @@ I'm a software engineer, a recent graduate with a degree in computer engineering
   <a target="_blank" href="https://www.freecodecamp.org/learn/javascript-v9/">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
+  <a target="_blank" href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
   <a target="_blank" href="https://learnpython.org/">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </a>
@@ -54,11 +57,14 @@ I'm a software engineer, a recent graduate with a degree in computer engineering
   <a target="_blank" href="https://expressjs.com/">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   </a>
+  <a target="_blank" href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  </a>
   <a target="_blank" href="https://docs.nestjs.com/">
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
   </a>
-  <a target="_blank" href="https://laravel.com/docs/12.x">
-    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+  <a target="_blank" href="https://www.djangoproject.com/">
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   </a>
 </span>
 
