@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm a software engineer, a recent graduate with a degree in computer engineering. I am interested in the areas of IT, software development, and web development. I'm passionate about learning, teamwork, and creating productive and innovative solutions. I aspire to be a full-stack developer and contribute to high-impact projects.
+I'm a software engineer, a recent graduate with a degree in computer engineering. I am interested in the areas of IT, software development, and web development. I'm passionate about learning, teamwork, and creating productive and innovative solutions. I aspire to contribute to high-impact projects and transform ideas into realities.
 - 🧑‍🎓 Studied civil engineering in computer science at the University of Santiago, Chile (USACH).
 - 🧐 I have experience in...
   - Backend and Frontend Development,
